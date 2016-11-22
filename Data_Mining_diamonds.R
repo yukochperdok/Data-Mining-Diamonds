@@ -29,7 +29,7 @@ library(sampling)
 library(ggm)
 
 getwd()
-setwd("D:/Pedro/Master MBIT/Temario/Modulo4/Sesion 38-42 - Analisis Estadistico - Lourdes Servan/Practica Evaluable")
+setwd("//ruta")
 
 #Cargamos el data frame y revisamos su composicion
 df<-as.data.frame(diamonds)
